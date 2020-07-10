@@ -1,3 +1,7 @@
+<h1 align="center">
+    <img alt="@pedroimpulcetto" src="/src/assets/chef.png" width="200px" />
+</h1>
+
 ### Hi there 👋
 
 <!--
