@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="@pedroimpulcetto" src="/src/assets/chef.png" width="200px" />
+    <img alt="@pedroimpulcetto" src="/@pedroimpulcetto.mp4" width="300px" height="200px" />
 </h1>
 
 ### Hi there 👋
