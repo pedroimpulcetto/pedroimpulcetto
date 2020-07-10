@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="@pedroimpulcetto" src="/pedroimpulcetto.png" width="300px" height="200px" />
+    <img alt="@pedroimpulcetto" src="/pedroimpulcetto.png"  />
 </h1>
 
 # Pedro Impulcetto
@@ -10,7 +10,7 @@
 
 <!-- ### Hi there 👋 -->
 
-###### Sobre 💬
+#### Sobre 💬
 
 :computer: Desenvolvedor de Sistemas e Graduando em Engenharia da Computação.
 
