@@ -1,6 +1,3 @@
-<h1 align="center">
-    <img alt="@pedroimpulcetto" src="/pedroimpulcetto.png"  />
-</h1>
 
 # Pedro Impulcetto
 
