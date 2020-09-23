@@ -1,6 +1,7 @@
 
 # Pedro Impulcetto
 
+[![YouTube Badge](https://img.shields.io/badge/-PedroImpulcetto-ff0000?style=flat&logo=YouTube&logoColor=white&link=https://www.youtube.com/channel/UCsnD5AhrIq7BvKvZFKLT-pQ?view_as=subscriber)](https://www.youtube.com/channel/UCsnD5AhrIq7BvKvZFKLT-pQ?view_as=subscriber)
 [![Linkedin Badge](https://img.shields.io/badge/-pedroimpulcetto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedroimpulcetto/)](https://www.linkedin.com/in/pedroimpulcetto/)
 [![Gmail Badge](https://img.shields.io/badge/-pedro.impulcetto@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedro.impulcetto@gmail.com)](mailto:pedro.impulcetto@gmail.com)
 [![Gmail Badge](https://img.shields.io/badge/-@pedroimpulcetto-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@pedro.impulcetto)](https://medium.com/@pedro.impulcetto)
