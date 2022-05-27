@@ -10,7 +10,7 @@
 
 #### About 💬
 
-:computer: Software Engineer.
+:computer: Software Engineer
 
 :rocket: Focused in backend development delivering high-quality and performance solutions.
 My engineering background includes, but is not limited to, Python frameworks and AWS Cloud, build applications with clean architecture, using all continuous delivery concecpts, and a lot of tests.
